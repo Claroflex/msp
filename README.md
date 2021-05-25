@@ -59,7 +59,7 @@ or [DashUI](https://github.com/hobbyquaker/DashUI)
 
 ## Install MSP API
 
-    git clone https://github.com/Ignat99/msp.git
+    git clone https://github.com/Claroflex/msp.git
     cd msp/
     git fetch upstream
     git config --global user.email "you@example.com"
