@@ -1,4 +1,4 @@
-# MSP - Minecraft system project 
+# MSP - Claroflex system project 
 
 
 VERY IMPORTANT NOTE: THIS IS NOT A HOW-TO ARTICLE. This article explains how the author used a Raspberry Pi to control electric current. However, the author is NOT an electrician, and just because he did something doesn’t mean YOU should, particularly if you are unfamiliar with how to wire electrical devices safely. WIRING A DEVICE IMPROPERLY CAN RESULT IN FIRE, PROPERTY DAMAGE, BODILY INJURY, AND/OR DEATH! So DO NOT just blindly do what the author has done, unless you are certain you know what you are doing and are willing to take full responsibility for your own actions! This article is for INFORMATIONAL PURPOSES AND DISCUSSION ONLY, and is NOT intended to be a guide to building any device!
